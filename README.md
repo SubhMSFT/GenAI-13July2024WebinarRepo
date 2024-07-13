@@ -1,23 +1,28 @@
 # GenAI: From One Token To An AI Revolution
-Online Webinar, July 13 2024
+Online Webinar, July 13 2024 <br>
+// Organized in association with Microsoft Azure & Microsoft Azure Developer Community (ADC), Dehradun
+
 
 ## About:
 Embark on an enlightening journey through the evolution of Generative AI, exploring its humble beginnings from the concept of a single token to its transformative impact on modern technology and society. This session will delve into the core principles of generative models, their applications across various industries, and the revolutionary advancements they have spurred. Participants will gain a deeper understanding of how generative AI works, its potential to drive innovation, and the ethical considerations surrounding its development and deployment. Whether you're a novice or an AI enthusiast, this session will provide valuable insights into the past, present, and future of generative AI.
 
 ## Speaker:
 Subhasish Ghosh <br>
-Senior Technical Program Manager - Azure OpenAI Services, Customer eXperience Engineering (CxE), Azure AI Platform, Microsoft
+Senior Technical Program Manager - Azure OpenAI Services, <br>
+Customer eXperience Engineering (CxE), <br>
+Azure AI Platform, <br>
+Microsoft
 
 ## Agenda:
-✅ Generative AI concepts
-✅ Tokenization
-✅ Transformers
-✅ Foundation Models & associated concepts
-✅ Azure OpenAI Service Models
-✅ Top3 Microsoft Build 2024 AI Announcements
-✅ Case Studies
-✅ Demos (wherein we explore OpenAI Python SDK + Semantic Kernel SDK using C#)
-✅ Quiz
+✅ Generative AI concepts <br>
+✅ Tokenization <br>
+✅ Transformers <br>
+✅ Foundation Models & associated concepts <br>
+✅ Azure OpenAI Service Models <br>
+✅ Top3 Microsoft Build 2024 AI Announcements <br>
+✅ Case Studies <br>
+✅ Demos (wherein we explore OpenAI Python SDK + Semantic Kernel SDK using C#) <br>
+✅ Quiz <br>
 
 📅 Date: July 13th
 🕒 Time: 12:00 PM - 1:30 PM
