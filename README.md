@@ -1,11 +1,11 @@
 # GenAI: From One Token To An AI Revolution
 Online Webinar, July 13 2024
 
-## About
+## About:
 Embark on an enlightening journey through the evolution of Generative AI, exploring its humble beginnings from the concept of a single token to its transformative impact on modern technology and society. This session will delve into the core principles of generative models, their applications across various industries, and the revolutionary advancements they have spurred. Participants will gain a deeper understanding of how generative AI works, its potential to drive innovation, and the ethical considerations surrounding its development and deployment. Whether you're a novice or an AI enthusiast, this session will provide valuable insights into the past, present, and future of generative AI.
 
-## Speaker
-Subhasish Ghosh
+## Speaker:
+Subhasish Ghosh <br>
 Senior Technical Program Manager - Azure OpenAI Services, Customer eXperience Engineering (CxE), Azure AI Platform, Microsoft
 
 ## Agenda:
