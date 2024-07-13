@@ -1,5 +1,5 @@
 # GenAI: From One Token To An AI Revolution
-Online Webinar, July 13 2024 <br>
+Online Webinar, 📅 Date: July 13th, 2024 <br>
 Organized in association with <b>Microsoft Azure</b> & <b>Microsoft Azure Developer Community (ADC)</b>, Dehradun <br>
 <img src="images/AzureLogo.png" width="200"> <img src="images/Azure Developer Community Logo.png" width="200">
 
@@ -24,7 +24,7 @@ Microsoft
 ✅ Demos (wherein we explore OpenAI Python SDK + Semantic Kernel SDK using C#) <br>
 ✅ Quiz <br>
 
-📅 Date: July 13th <br>
+📅 Date: July 13th, 2024 <br>
 🕒 Time: 12:00 PM - 1:30 PM <br>
 📍 Online <br>
 🔗 Registration Link: https://lnkd.in/gUq4FwhW <br>
