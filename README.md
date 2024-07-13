@@ -37,7 +37,7 @@ GitHub repo for OpenAI Python SDK code &amp; Semantic Kernel C# code Demos for W
 3. <b>WebinarPPT-Download</b> has the Presentation Slides used in the Webinar.
 
 ## Watch recording of Webinar here:
-[![Generative AI](images/Thumbnail-new.png)(https://www.youtube.com/watch?v=MDtaY-Lrrcw)
+[!Generative AI](images/Thumbnail-new.png)(https://www.youtube.com/watch?v=MDtaY-Lrrcw)
 <br>
 
 If you have any questions, am reachable on: sugh AT microsoft DOT com
