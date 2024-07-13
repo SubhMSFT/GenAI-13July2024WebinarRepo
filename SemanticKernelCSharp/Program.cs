@@ -9,7 +9,7 @@ string apikey = Environment.GetEnvironmentVariable("AZURE_OPENAI_API_KEY")!;
 
 // Creating an instance of the conversation:
 Kernel kernel = Kernel.CreateBuilder()
-        .AddAzureOpenAIChatCompletion("my-gpt-35-turbo", "https://g42-aoai.openai.azure.com/", apikey)
+        .AddAzureOpenAIChatCompletion("my-gpt-35-turbo", "<< USE LLM ENDPOINT HERE FROM AZURE AI STUDIO >>", apikey)
         .Build();
 
 // Example1: Invoke the kernel with a prompt and display the result
