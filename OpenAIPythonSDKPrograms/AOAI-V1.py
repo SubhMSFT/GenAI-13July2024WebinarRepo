@@ -5,7 +5,7 @@ from openai import AzureOpenAI                                  # import Azure O
 client = AzureOpenAI(
     
     # retrieve endpoint from model deployment in Azure AI Studio
-    azure_endpoint="https://g42-aoai.openai.azure.com/",
+    azure_endpoint="<<USE_LLM_ENDPOINT_HERE>>",
     
     # using environment variable for Demo purposes: *not* recommended for Prod
     # guidance here: either use Azure Key Vault or preferably DefaultAzureCredential() class
