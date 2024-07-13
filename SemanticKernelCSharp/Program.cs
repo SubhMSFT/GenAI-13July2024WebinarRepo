@@ -38,7 +38,7 @@ ChatHistory chat = new();
 
 while (true)
 {
-    Console.Write("Qunestion: ");
+    Console.Write("Question: ");
     chat.AddUserMessage(Console.ReadLine());
 
     // Need a response back 
