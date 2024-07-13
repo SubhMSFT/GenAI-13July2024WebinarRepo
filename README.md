@@ -28,8 +28,7 @@ Microsoft
 🕒 Time: 12:00 PM - 1:30 PM
 📍 Online
 🔗 Registration Link: https://lnkd.in/gUq4FwhW
-
-
+![Image1](images/GenAI-OnlineWebinar-Poster.jpg)
 
 ## Code showcased in demos:
 GitHub repo for OpenAI Python SDK code &amp; Semantic Kernel C# code Demos for Webinar
