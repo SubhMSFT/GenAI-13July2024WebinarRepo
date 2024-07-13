@@ -1,7 +1,7 @@
 # GenAI: From One Token To An AI Revolution
 Online Webinar, July 13 2024 <br>
-// Organized in association with Microsoft Azure & Microsoft Azure Developer Community (ADC), Dehradun
-
+Organized in association with <b>Microsoft Azure<b> & <b>Microsoft Azure Developer Community (ADC)<b>, Dehradun
+<img src="images/AzureLogo.png" width="200"> <img src="images/Azure Developer Community Logo.png" width="200">
 
 ## About:
 Embark on an enlightening journey through the evolution of Generative AI, exploring its humble beginnings from the concept of a single token to its transformative impact on modern technology and society. This session will delve into the core principles of generative models, their applications across various industries, and the revolutionary advancements they have spurred. Participants will gain a deeper understanding of how generative AI works, its potential to drive innovation, and the ethical considerations surrounding its development and deployment. Whether you're a novice or an AI enthusiast, this session will provide valuable insights into the past, present, and future of generative AI.
