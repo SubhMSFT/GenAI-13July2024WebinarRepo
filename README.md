@@ -7,7 +7,7 @@ Organized in association with <b>Microsoft Azure</b> & <b>Microsoft Azure Develo
 Embark on an enlightening journey through the evolution of Generative AI, exploring its humble beginnings from the concept of a single token to its transformative impact on modern technology and society. This session will delve into the core principles of generative models, their applications across various industries, and the revolutionary advancements they have spurred. Participants will gain a deeper understanding of how generative AI works, its potential to drive innovation, and the ethical considerations surrounding its development and deployment. Whether you're a novice or an AI enthusiast, this session will provide valuable insights into the past, present, and future of generative AI.
 
 ## Speaker:
-Subhasish Ghosh <br>
+<b>Subhasish Ghosh</b> <br>
 Senior Technical Program Manager - Azure OpenAI Service, <br>
 Customer eXperience Engineering (CxE), <br>
 Azure AI Platform, <br>
@@ -24,10 +24,10 @@ Microsoft
 ✅ Demos (wherein we explore OpenAI Python SDK + Semantic Kernel SDK using C#) <br>
 ✅ Quiz <br>
 
-📅 Date: July 13th
-🕒 Time: 12:00 PM - 1:30 PM
-📍 Online
-🔗 Registration Link: https://lnkd.in/gUq4FwhW
+📅 Date: July 13th <br>
+🕒 Time: 12:00 PM - 1:30 PM <br>
+📍 Online <br>
+🔗 Registration Link: https://lnkd.in/gUq4FwhW <br>
 <img src="images/GenAI-OnlineWebinar-Poster.jpg" width="600">
 
 ## Code showcased in demos:
