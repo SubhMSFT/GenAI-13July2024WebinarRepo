@@ -32,8 +32,9 @@ Microsoft
 
 ## Code showcased in demos:
 GitHub repo for OpenAI Python SDK code &amp; Semantic Kernel C# code Demos for Webinar <br>
-1. <b>OpenAIPythonSDKPrograms</b> folder has all the OpenAI Python SDK code showcased in the demo. <br>
-2. <b>SemanticKernelCSharp</b> folder has all the Microsoft Semantic Kernel C# code showcased in the demo.
+1. <b>OpenAIPythonSDKPrograms</b> folder has the OpenAI Python SDK programs showcased in the demo. <br>
+2. <b>SemanticKernelCSharp</b> folder has the Microsoft Semantic Kernel C# code showcased in the demo.
+3. <b>WebinarPPT-Download</b> has the Presentation Slides used in the Webinar.
 
 ## Watch recording of Webinar here:
 Link > 
