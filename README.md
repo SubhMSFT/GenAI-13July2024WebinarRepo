@@ -29,7 +29,7 @@ Microsoft
 📍 Online
 🔗 Registration Link: https://lnkd.in/gUq4FwhW
 ![Image1](images/GenAI-OnlineWebinar-Poster.jpg)
-<img src="images/GenAI-OnlineWebinar-Poster.jpg" width="100" height="100">
+<img src="images/GenAI-OnlineWebinar-Poster.jpg" width="400">
 
 ## Code showcased in demos:
 GitHub repo for OpenAI Python SDK code &amp; Semantic Kernel C# code Demos for Webinar
