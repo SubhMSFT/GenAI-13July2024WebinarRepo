@@ -1,6 +1,6 @@
 # GenAI: From One Token To An AI Revolution
 Online Webinar, July 13 2024 <br>
-Organized in association with <b>Microsoft Azure<b> & <b>Microsoft Azure Developer Community (ADC)<b>, Dehradun <br>
+Organized in association with <b>Microsoft Azure</b> & <b>Microsoft Azure Developer Community (ADC)</b>, Dehradun <br>
 <img src="images/AzureLogo.png" width="200"> <img src="images/Azure Developer Community Logo.png" width="200">
 
 ## About:
