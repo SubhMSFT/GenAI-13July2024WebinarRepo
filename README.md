@@ -8,7 +8,7 @@ Embark on an enlightening journey through the evolution of Generative AI, explor
 
 ## Speaker:
 Subhasish Ghosh <br>
-Senior Technical Program Manager - Azure OpenAI Services, <br>
+Senior Technical Program Manager - Azure OpenAI Service, <br>
 Customer eXperience Engineering (CxE), <br>
 Azure AI Platform, <br>
 Microsoft
